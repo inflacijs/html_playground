@@ -1,0 +1,12 @@
+body {
+    background: center no-repeat url('img/brick_wall.jpg');
+    background-size: cover;
+    background-image: 100vh;
+}
+p
+    color:green;
+    font-family: lobster;
+}
+h1 {
+    background-color: rgb(138, 119, 95);
+}

@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+.m-container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    /* flex-direction: column-reverse; */
+}
+.children {
+    background-color: blueviolet;
+    height: 100px;
+    width:100px;
+    border: dotted 2px black;
+    
+}
+.cl3 {
+    background-color: brown;
+}
+.cl4 {
+    background-color: aquamarine;
+}

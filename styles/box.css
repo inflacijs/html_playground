@@ -1,0 +1,25 @@
+
+div {
+    width: 20rem;
+    border: green solid 0.5rem;
+    box-sizing: border-box;
+    height: 10rem;
+}
+html {
+    font-size: 62.5%;
+}
+div {
+    background-color: red;
+}
+@media (max-width: 1024px) {
+    div{
+        height: 8vh;
+        background-color: green;
+    }
+}
+@media (max-width: 1024px) {
+    div{
+        height: 8vh;
+        background-color: green;
+    }
+}
