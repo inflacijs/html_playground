@@ -4,14 +4,16 @@
 .m-container {
     display:flex;
     flex-wrap: wrap;
-    justify-content:space-around;
-    /* flex-direction: column-reverse; */
+    justify-content:space-between;
+   
+    
 }
 .children {
     background-color: blueviolet;
-    height: 100px;
-    width:100px;
+    height: 300px;
+    width:200px;
     border: dotted 2px black;
+    padding:15px;
     
 }
 .cl3 {
